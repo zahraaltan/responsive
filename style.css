@@ -154,20 +154,20 @@ header {
 }
 
 /* TESTIMONIALS SECTION */
-#testimonials {
+#tests {
     background-image: url(bg.jpg);
     padding: 60px 20px;
     text-align: center;
 }
 
-.testimonials {
+.tests {
     display: flex;
     gap: 30px;
     justify-content: center;
     flex-wrap: wrap;
 }
 
-.testimonial {
+.test {
     background: #fff;
     padding: 30px;
     border-radius: 10px;
@@ -176,18 +176,18 @@ header {
     transition: transform 0.3s ease;
 }
 
-.testimonial:hover {
+.test:hover {
     transform: scale(1.05);
 }
 
-.testimonial img {
+.test img {
     width: 80px;
     height: 80px;
     border-radius: 50%;
     margin-bottom: 20px;
 }
 
-.testimonial p {
+.test p {
     font-style: italic;
     color: #666;
 }
