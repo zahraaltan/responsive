@@ -153,7 +153,6 @@ header {
     opacity: 1;
 }
 
-/* TESTIMONIALS SECTION */
 #tests {
     background-image: url(bg.jpg);
     padding: 60px 20px;
@@ -191,6 +190,7 @@ header {
     font-style: italic;
     color: #666;
 }
+
 
 /* GALLERY SECTION */
 #gallery {
